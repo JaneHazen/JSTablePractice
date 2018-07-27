@@ -31,3 +31,5 @@ You do not need to add validations around anything other than the age and relati
 
 The focus here is on the quality of your JavaScript, not the beauty of your design. The controls you add around viewing and deleting
 household members should be usable but need not be much to look at.
+
+![Imgur](https://i.imgur.com/foBbXFn.png)
